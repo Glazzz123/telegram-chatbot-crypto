@@ -1,0 +1,8 @@
+aiogram==3.13.1  # Обновленная версия aiogram для работы с FSM
+requests==2.32.3  # Версия для выполнения HTTP-запросов
+environs==9.5.0  # Для работы с .env файлами
+pydantic==2.9.2  # Обновленная версия Pydantic
+pydantic-core==2.23.4  # Основной пакет для Pydantic 2.x
+pytest==6.2.4  # Для тестирования
+python-dotenv>=0.19.2
+peewee==3.15.2
